@@ -1,0 +1,24 @@
+1620024183532	geckodriver	INFO	Listening on 127.0.0.1:61152
+1620024186290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilee2kcPb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620024238369	Marionette	INFO	Listening on port 61161
+1620024239125	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19660, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620025362346	Marionette	INFO	Stopped listening on port 61161
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+emp\\rust_mozprofilex9CshY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1620024322620	Marionette	INFO	Listening on port 61354
+1620024324811	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620025366050	Marionette	INFO	Stopped listening on port 61354
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

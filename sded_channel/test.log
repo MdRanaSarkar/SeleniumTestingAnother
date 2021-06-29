@@ -1,0 +1,20 @@
+05/17/2021 :DEBUG:This is debug msg
+05/17/2021 :INFO:This is for info msg
+05/17/2021 :WARNING:This is for warning msg
+05/17/2021 :ERROR:This is for error msg
+05/17/2021 :CRITICAL:This is for critical msg
+05/17/2021  05:11:40 PM :DEBUG:This is debug msg
+05/17/2021  05:11:40 PM :INFO:This is for info msg
+05/17/2021  05:11:40 PM :WARNING:This is for warning msg
+05/17/2021  05:11:40 PM :ERROR:This is for error msg
+05/17/2021  05:11:40 PM :CRITICAL:This is for critical msg
+05/17/2021  05:12:56 PM : DEBUG: This is debug msg
+05/17/2021  05:12:56 PM : INFO: This is for info msg
+05/17/2021  05:12:56 PM : WARNING: This is for warning msg
+05/17/2021  05:12:56 PM : ERROR: This is for error msg
+05/17/2021  05:12:56 PM : CRITICAL: This is for critical msg
+05/17/2021  05:13:34 PM : DEBUG : This is debug msg
+05/17/2021  05:13:34 PM : INFO : This is for info msg
+05/17/2021  05:13:34 PM : WARNING : This is for warning msg
+05/17/2021  05:13:34 PM : ERROR : This is for error msg
+05/17/2021  05:13:34 PM : CRITICAL : This is for critical msg
